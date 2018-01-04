@@ -1,0 +1,23 @@
+table thead{
+    background: rgb(41, 39, 39);
+    color: beige;
+}
+#modal-header{
+    background: rgb(41, 39, 39);
+    color: beige;
+    text-align: center;
+}
+#id{
+    display: none;
+}
+#modalDelete{
+    background: rgba(199, 44, 44, .5);
+}
+#modalDelete div, #modalDelete div div form{
+    background: rgb(199, 44, 44);
+    
+    color: beige;
+}
+#modalDelete .modal-dialog .modal-content .modal-body{
+    height: 13rem;
+}
